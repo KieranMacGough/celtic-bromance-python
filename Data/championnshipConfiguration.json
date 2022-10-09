@@ -1,1 +1,1 @@
-{"pointConfiguration": [25, 23, 21, 19, 17, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1], "serverAdmin": "76561198445003541", "swapCar": 3, "swapPoint": 0, "weatherWeightConfiguration": [0, 3, 7, 12], "weatherPresetName": ["flooded", "wet", "cloudy", "dry"], "swapCountDown": 300}
+{"pointConfiguration": [25, 23, 21, 19, 17, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1], "serverAdmin": "76561198007462534", "swapCar": 3, "swapPoint": 1, "weatherWeightConfiguration": [0, 0, 0, -101], "weatherPresetName": ["flooded", "wet", "cloudy", "dry"], "swapCountDown": 300}

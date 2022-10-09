@@ -696,11 +696,11 @@ def getSwapPointVictim(parameters):
         json_file.close()
 
     print("\n"+parameters+"\n")
+    victim = 0
     for item in roundInfo["swapPoint"]:
         if item[0] == parameters:
             victim = item[1]
             print(str(item))
-    print("\n Victim: "+str(victim)+"\n")
     return victim
 
 
