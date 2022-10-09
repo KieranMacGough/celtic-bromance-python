@@ -25,7 +25,7 @@ savesPath = "saves/"
 configFiles = ["assistRules.json", "configuration.json"]  # , "settings.json"
 ballastInGameLimit = 30
 server = None
-ballastList = [30, 28, 26, 24, 22, 20, 18, 16, 14, 12, 10, 8, 6, 4, 2]
+ballastList = [20, 18, 16, 14, 12, 10, 8, 6, 4, 2]
 
 
 def init():
@@ -51,7 +51,6 @@ def makeEventConfig(trackData, weatherData, championnshipConfiguration, customEv
     eventInfo = {}
     # Choose track
     if customEvent == {}:
-
         trackList = []
         for track in trackData:
             if trackData[track]["available"]:
